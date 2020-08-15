@@ -1,0 +1,10 @@
+let KipeShami = {
+    //ATRIBUTOS
+    //LLAVE: VALOR,
+    nombre: 'Kipe Shami',
+    edad: `24,
+    pais: 'Mexico',
+    esMayor: true,
+
+  
+    },
